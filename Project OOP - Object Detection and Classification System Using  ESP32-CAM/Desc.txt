@@ -1,0 +1,15 @@
+9V_BATTERY
+9V Battery is a rectangular dry cell classified by its 48.5mm x 26.5mm x 17.5mm dimensions and one-sided clasp terminals
+ARDUINO_NANO
+The Arduino Nano is an open-source breadboard-friendly microcontroller board based on the Microchip ATmega328P microcontroller (MCU) and developed by Arduino.cc and initially released in 2008.
+MOTOR_DRIVER_L298N
+New description for the L298N
+ESP32
+Another description for the esp32
+RASPBERRY_ZERO
+Raspberry zero has been designed to be as flexible and compact as possible with mini connectors and an unpopulated 40-pin GPIO.
+RASPBERRY_PI_3
+The Raspberry Pi 3 is equipped with a quad-core 64-bit Broadcom BCM2837 ARM Cortex-A53 SoC processor running at 1.2 GHz
+MOTOR_V1
+This yellow DC motor is ideal for robotics and model vehicles. It has a 1:48 gear ratio and maximum torque of 800g/cm at a minimum of 3V.
+
