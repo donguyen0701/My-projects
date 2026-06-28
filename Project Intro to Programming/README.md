@@ -24,3 +24,5 @@ This project is a simple, text-based implementation of the game "Russian Roulett
 3. Set the build configuration to `Debug` or `Release` (x64 or x86).
 4. Build the solution (Ctrl + Shift + B).
 5. Run the application (F5) to start the game in your console.
+
+* Since there contains a lot of images for UI, therefore, here is the link for downloading the whole Russianroullete project: [Here](https://drive.google.com/drive/folders/1HT472ofdoruKxWlhSy50XytqEkaGG5hL?usp=drive_link)
