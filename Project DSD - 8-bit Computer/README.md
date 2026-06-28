@@ -8,9 +8,9 @@ This repository contains my most wholehearted university project, developed as p
 * Here is our simulation video for this project: **https://drive.google.com/file/d/1qVar5qvqbFFfEC6v5gka5OEG87k6WEGj/view?usp=sharing**
 ##    🏆 Exhibition:
 * Proudly selected project for display at **VGU’s Career Fair 2025**, showcasing low-level computer architecture and digital system design.
-**https://drive.google.com/file/d/1PFB3GEOhv9ITu8VrG2wQP4YS9T2YDwJs/view?usp=sharing
-https://drive.google.com/file/d/1aSB4ChbuCcugXHiJPGP4gxOoiEZXklmo/view?usp=sharing
-https://drive.google.com/file/d/1TueY65i4mg5nHeumQx8KIZIYIH_CYx1t/view?usp=sharing
-https://drive.google.com/file/d/1HObWbBRql_knpuTdfDRHjrQbkC4c_TZS/view?usp=sharing**
+  * [Exhibition Photo/Video 1]**https://drive.google.com/file/d/1PFB3GEOhv9ITu8VrG2wQP4YS9T2YDwJs/view?usp=sharing
+  * [Exhibition Photo/Video 2]https://drive.google.com/file/d/1aSB4ChbuCcugXHiJPGP4gxOoiEZXklmo/view?usp=sharing
+  * [Exhibition Photo/Video 3]https://drive.google.com/file/d/1TueY65i4mg5nHeumQx8KIZIYIH_CYx1t/view?usp=sharing
+  * [Exhibition Photo/Video 4]https://drive.google.com/file/d/1HObWbBRql_knpuTdfDRHjrQbkC4c_TZS/view?usp=sharing**
 ## 🙏 Massive Acknowledments
 * Credit to Ben Eater for this awesome project. I highly recommend checking out his original work at https://eater.net and his YouTube channel. 
