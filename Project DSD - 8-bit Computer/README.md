@@ -5,7 +5,7 @@ This repository contains my most wholehearted university project, developed as p
 ##   🛠️ Tools & Build Process
 * Simulation: Proteus Design Suite. All of the files in this repos are simulations from Proteus 8. 
 * Hardware Assembly: Built manually from scratch using discrete logic ICs, EEPROMs, and raw wiring.
-* Here is our simulation video for this project: **https://drive.google.com/file/d/1qVar5qvqbFFfEC6v5gka5OEG87k6WEGj/view?usp=sharing**
+* Here is our simulation video for this project: [Watch Demo](https://drive.google.com/file/d/1qVar5qvqbFFfEC6v5gka5OEG87k6WEGj/view?usp=sharing)
 ##    🏆 Exhibition:
 * Proudly selected project for display at **VGU’s Career Fair 2025**, showcasing low-level computer architecture and digital system design.
   * [Exhibition Photo/Video 1](https://drive.google.com/file/d/1PFB3GEOhv9ITu8VrG2wQP4YS9T2YDwJs/view?usp=sharing)
