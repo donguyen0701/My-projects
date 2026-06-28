@@ -10,8 +10,9 @@ This project is an edge-based inventory tracking solution that seamlessly combin
 
 * **Hardware Assembly:** Built using an ESP32-CAM module for real-time edge vision processing.
 * **Software & AI:** Model trained and deployed via Edge Impulse. The backend architecture is written entirely in C++ utilizing Linux `termios.h` for seamless serial communication between the microcontroller and the database.
-* Here is our demonstration video for this project: [Insert Link Here]
-
+* Here is our demonstration video for this project:
+* Object detection demo: https://drive.google.com/file/d/1eHbygeopQmX8abPkYGOJ_PLn9WdN20Hd/view?usp=sharing
+* Program OOP demo: https://drive.google.com/file/d/1KJbYxlfLJotT-9fmg-7zanbYw1GJIC-2/view?usp=sharing
 ## 🚀 How to Run
 
 **Requirements:**
