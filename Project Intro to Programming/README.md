@@ -5,7 +5,7 @@ This repository contains a C++ console application developed as part of my Elect
 ## 🖥️ About the Project
 
 This project is a simple, text-based implementation of the game "Russian Roulette". It was built to demonstrate fundamental C++ programming concepts, including control flow, random number generation, input/output handling, and basic game logic.
-Simulation Video: [Watch Here](https://drive.google.com/file/d/1VeRJEMef1hVIwwsMFJC0o36Pu-yK6TmD/view?usp=sharing)
+* Simulation Video: [Watch Here](https://drive.google.com/file/d/1VeRJEMef1hVIwwsMFJC0o36Pu-yK6TmD/view?usp=sharing)
 ## 🛠️ Tools & Build Process
 
 * **Language:** Written in **C++**.
