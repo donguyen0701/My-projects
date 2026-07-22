@@ -39,20 +39,20 @@ I also completed an academic exchange at **Frankfurt University of Applied Scien
 
 ### English
 
-**IELTS Academic: Overall Band [ENTER SCORE]**
+**IELTS Academic: Overall Band 7.5**
 
 | Listening | Reading | Writing | Speaking |
 |---:|---:|---:|---:|
-| [9.0] | [7.5] | [6.5] | [7.0] |
+| 9.0 | 7.5 | 6.5 | 7.0 |
 
-* Test Year: **[2024]**
+* Test Year: **2024**
 * Certificate: [View IELTS Certificate](https://drive.google.com/file/d/1IH_FjTkxWl-zH8OJT5pWa5Zmvi5G6wLo/view?usp=sharing)
 
 ### German
 
-**Goethe-Zertifikat [B1]**
+**Goethe-Zertifikat B1**
 
-* Certificate Year: **[2025]**
+* Certificate Year: **2025**
 * Certificate: [View Goethe Certificate](https://drive.google.com/file/d/1iJ7url-VnK_3NSlK1MuN8pCAvjZZBaoy/view?usp=sharing)
 
 <!-- If you have not taken the Goethe examination yet, replace the section above with:
