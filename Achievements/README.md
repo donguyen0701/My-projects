@@ -58,7 +58,7 @@ My contributions included software development, validation, formal analysis, dat
 
 ## 🧲 University Physics Competition 2025 | Third Place
 
-Achieved **Third Place** in the **University Physics Competition (UPC) 2025**.
+Achieved **Bronze Medal** in the **University Physics Competition (UPC) 2024**.
 
 The competition required participants to apply theoretical physics, mathematical reasoning, systematic problem-solving techniques and spend 48 hours to write a full paper solving a self-chosen university-level physics problem.
 
