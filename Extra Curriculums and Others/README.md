@@ -47,10 +47,10 @@ Worked as the hardware coordinator and co-coder for an Arduino-based robot socce
 
 | Course | Provider | Certificate |
 |---|---|---|
-| Erasmus+ DESL Lighting and Design Course | Erasmus+ / DESL Project | [View Certificate](documents/desl-certificate.pdf) |
-| Introduction to Semiconductor Packaging | Coursera | [View Certificate](documents/semiconductor-introduction.pdf) |
-| Semiconductor Packaging Manufacturing | Coursera | [View Certificate](documents/semiconductor-manufacturing.pdf) |
-| Adding Electronics to Rapid Prototypes | Coursera | [View Certificate](documents/rapid-prototyping.pdf) |
+| Erasmus+ DESL Lighting and Design Course | Erasmus+ / DESL Project | [View Certificate](desl-certificate.pdf) |
+| Introduction to Semiconductor Packaging | Coursera | [View Certificate](semiconductor-introduction.pdf) |
+| Semiconductor Packaging Manufacturing | Coursera | [View Certificate](semiconductor-manufacturing.pdf) |
+| Adding Electronics to Rapid Prototypes | Coursera | [View Certificate](rapid-prototyping.pdf) |
 
 ---
 
