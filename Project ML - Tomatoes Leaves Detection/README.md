@@ -6,7 +6,9 @@ This repository contains my university project, developed as part of my Electric
 
 This project is an AI-powered diagnostic tool designed to help farmers quickly detect tomato plant diseases. It features a **Custom Convolutional Neural Network (CNN)** trained on the PlantVillage dataset to identify 10 different tomato leaf conditions, achieving a validation accuracy of over 89%. The backend logic is seamlessly integrated with a user-friendly Streamlit web interface for instant, real-time image diagnosis.
 * Dataset: All Tomatoes Leaf from: https://www.kaggle.com/emmarex/plantdisease
-* Simulation Video: https://github.com/user-attachments/assets/83bd4786-94b6-429a-9651-22bcd869ed28
+* Simulation Video: <video src="2026-06-28 23-12-05.mp4" width="320" height="240" controls></video>
+
+
 
 ## 🛠️ Tools & Build Process
 
