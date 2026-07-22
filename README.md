@@ -190,7 +190,7 @@ Co-developed an embedded object-detection and inventory-management system using 
 * Recipient of the **DAAD Additional Sur-Place Scholarship — Winter Semester 2024–2025**.
 * Recipient of a **DAAD Study-Stay Scholarship** for academic exchange at FRA-UAS during Winter Semester 2025–2026.
 * Recipient of the **Amann Scholarship 2025**.
-* **Third Place** at the University Physics Competition 2025.
+* **Bronze Medal** at the University Physics Competition 2025.
 * **Third Place** at the VGU Soccerbot Competition 2023–2024.
 * 8-bit computer selected for exhibition at **VGU Career Fair 2025**.
 * Individual Bronze Medal and Team Gold Medal in the Ho Chi Minh City Student Chess Championship.
