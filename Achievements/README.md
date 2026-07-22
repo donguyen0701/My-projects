@@ -8,10 +8,10 @@ These achievements reflect my commitment to academic performance, engineering re
 
 ## 🎓 Scholarships & Academic Merit
 
-* **100% Merit Scholarship:** Awarded in recognition of outstanding academic performance at VGU.
-* **50% Merit Scholarship:** Awarded for continued strong academic achievement during my ECE studies.
-* **DAAD Additional Sur-Place Scholarship:** Selected as a recipient of scholarship support from the German Academic Exchange Service (DAAD).
-* **Amann Scholarship 2025:** Awarded the Amann Scholarship for the 2025 academic year.
+* **100% Merit Scholarship:** Awarded in recognition of outstanding academic performance at VGU. [For reference](https://drive.google.com/file/d/18Ix9YVbs96M2U9LgfURIDuTq2qTCfrhc/view?usp=sharing)
+* **50% Merit Scholarship:** Awarded for continued strong academic achievement during my ECE studies. [For reference](https://drive.google.com/file/d/1rijX-W5yt6VHMXqiNPBq_nvEVvUNFxPs/view?usp=sharing)
+* **DAAD Additional Sur-Place Scholarship:** Selected as a recipient of scholarship support from the German Academic Exchange Service (DAAD).[For reference](https://drive.google.com/file/d/1g5s85vumJN7q-A6zVw082hBSQ_1hrkbx/view?usp=sharing)
+* **Amann Scholarship 2025:** Awarded the Amann Scholarship for the 2025 academic year. [For reference]([https://drive.google.com/file/d/1g5s85vumJN7q-A6zVw082hBSQ_1hrkbx/view?usp=sharing])
 
 ## 📡 Research Publication & International Conference
 
@@ -31,6 +31,3 @@ These achievements reflect my commitment to academic performance, engineering re
 * **Ho Chi Minh City Student Chess Championship:** Achieved an **Individual Bronze Medal** and contributed to a **Team Gold Medal**.
 * **Ho Chi Minh City Physics Competition:** Selected to represent my school in the city-wide physics competition.
 
-## 📁 Supporting Documents
-
-Each achievement subfolder can store the relevant certificate, award letter, publication record, or event photograph that verifies the accomplishment summarized above.
