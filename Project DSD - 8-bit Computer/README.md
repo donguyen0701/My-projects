@@ -48,7 +48,7 @@ The completed computer consists of the following main modules:
 
 The simulation demonstrates the interaction between the clock, registers, arithmetic logic unit, memory, program counter, and control unit.
 
-* [Watch the Proteus Simulation](https://drive.google.com/file/d/1qVar5qvqbFFfEC6v5gka5OEG87k6WEGj/view?usp=sharing)
+* [Watch the whole Simulation](https://drive.google.com/file/d/1qVar5qvqbFFfEC6v5gka5OEG87k6WEGj/view?usp=sharing)
 * [View the Project Presentation](8bit%20Presentation.pdf)
 
 ## 🏆 VGU Career Fair 2025 Exhibition
