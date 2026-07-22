@@ -172,7 +172,7 @@ Co-developed a portable formaldehyde-monitoring system using an ESP32 and Sensir
 My responsibilities focused on hardware architecture, schematic design, wiring, soldering, component integration, and enclosure development.
 
 * Role: Hardware Designer and Co-Contributor
-* [View Project](Project%20Extracurricular%20-%20HCHO%20Measurement%20System/README.md)
+* [View Project](https://github.com/donguyen0701/My-projects/blob/d40033fc39ea5bd78e73b2abc95cbfeb2250fc9a/Self-Project%20-%20HCHO%20Measurement%20System/README.md)
 
 ### 📷 ESP32-CAM Object Detection System
 
