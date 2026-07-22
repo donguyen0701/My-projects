@@ -82,8 +82,8 @@ The first hardware prototype used:
 
 This stage was used to verify the basic component connections and confirm that the ESP32 could receive sensor data and display the measured value.
 
-* [Watch First-Stage Hardware Demonstration](HCHO%20demo%281%29%20First%20stage.mp4)
-* [Watch First-Stage System Demonstration](HCHO%20demo%282%29%20First%20stage.mp4)
+* [Watch First-Stage Hardware Demonstration](https://drive.google.com/file/d/1f0mn-FPBQXN0ATCp7MC8JNbsm3Eon_oZ/view?usp=sharing)
+* [Watch First-Stage System Demonstration](https://drive.google.com/file/d/1rGPeg7nXGq0WhVhqMnV5egE8wTsXIL6h/view?usp=sharing)
 
 ### Stage 2 — Hardware Improvement
 
@@ -113,25 +113,25 @@ A transparent protective enclosure was designed to:
 
 The enclosure concept shows the proposed arrangement of the electronics, ventilation openings, intake fan, and exhaust fan.
 
-![Ventilated enclosure concept](Box.jpg)
+![Ventilated enclosure concept](https://drive.google.com/file/d/1VJmxpXu0KD-GjY_Aya9Z7ej6AvbQccsH/view?usp=sharing)
 
 ### Final Enclosed Prototype
 
 The completed hardware was installed inside the transparent ventilated enclosure.
 
-![Finished HCHO measurement system](Finished.jpg)
+![Finished HCHO measurement system](https://drive.google.com/file/d/1l2yVFvGgcAksqwx61KWqvYQLAjIBcGoo/view?usp=sharing)
 
 ### Final Hardware Schematic
 
 The schematic illustrates the electrical connections between the ESP32, HCHO sensor, OLED display, RTC, and microSD card module.
 
-![HCHO measurement system schematic](Schematics.jpg)
+![HCHO measurement system schematic](https://drive.google.com/file/d/1QrpQiJZdkIQFef9g6jrEhfSGXyBziedA/view?usp=sharing)
 
 ### Soldered Hardware Assembly
 
 The final components were soldered onto a prototyping board to improve connection stability and reduce the number of loose jumper wires.
 
-![Soldered ESP32 HCHO measurement circuit](Soldered.jpg)
+![Soldered ESP32 HCHO measurement circuit](https://drive.google.com/file/d/1D_aE_7eHAaBD8YLSLC75eYjrFXPBThAg/view?usp=sharing)
 
 ## 📊 Complete Team-System Verification
 
@@ -148,17 +148,16 @@ My responsibility during system verification was ensuring that the sensor, displ
 
 ### Serial Output and Hardware Logging Test
 
-![ESP32 terminal output and SD-card logging](Terminal.jpg)
+![ESP32 terminal output and SD-card logging](https://drive.google.com/file/d/1Aaj7GeakeqSl4M4aSzNK9V82ziqpkRCH/view?usp=sharing)
 
 ### ThingSpeak Dashboard Result
 
-![ThingSpeak monitoring dashboard](Thingspeak.jpg)
-
+![ThingSpeak monitoring dashboard](https://drive.google.com/file/d/1KKGTKbuwg0_BKa9sMMWQAd0309hKQwZ6/view?usp=sharing)
 ## 📄 Project Documentation
 
-* [Final Project Report — July 2024](HCHO%20MEASURE%20FINAL%20REPORT.pdf)
-* [Initial Project Report](HCHO%20MEASURE%20PROJECT%20REPORT.pdf)
-* [Project Progress Update — 18 June 2024](HCHO%2018-06-2024.pdf)
+* [Final Project Report — July 2024](https://drive.google.com/file/d/1Ts9oscvj4xqSltoNfn1T-DxIDHQBhNAN/view?usp=sharing)
+* [Initial Project Report](https://drive.google.com/file/d/136cl__LBlETGzag87hYLdRCDmoMrmouJ/view?usp=sharing)
+* [Project Progress Update — 18 June 2024](https://drive.google.com/file/d/1ldcMSOQfHFtTNOGtCSDef0y-vYX2ClNV/view?usp=sharing)
 
 ## ⚠️ Prototype Status & Limitations
 
