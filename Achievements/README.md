@@ -11,7 +11,7 @@ These achievements reflect my commitment to academic performance, engineering re
 * **100% Merit Scholarship:** Awarded in recognition of outstanding academic performance at VGU. [For reference](https://drive.google.com/file/d/18Ix9YVbs96M2U9LgfURIDuTq2qTCfrhc/view?usp=sharing)
 * **50% Merit Scholarship:** Awarded for continued strong academic achievement during my ECE studies. [For reference](https://drive.google.com/file/d/1rijX-W5yt6VHMXqiNPBq_nvEVvUNFxPs/view?usp=sharing)
 * **DAAD Additional Sur-Place Scholarship:** Selected as a recipient of scholarship support from the German Academic Exchange Service (DAAD).[For reference](https://drive.google.com/file/d/1g5s85vumJN7q-A6zVw082hBSQ_1hrkbx/view?usp=sharing)
-* **Amann Scholarship 2025:** Awarded the Amann Scholarship for the 2025 academic year. [For reference]([https://drive.google.com/file/d/1g5s85vumJN7q-A6zVw082hBSQ_1hrkbx/view?usp=sharing])
+* **Amann Scholarship 2025:** Awarded the Amann Scholarship for the 2025 academic year. [For reference](https://drive.google.com/file/d/18T5PsgcqldWGeNlBa0dpZB4MCI571k5b/view)
 
 ## 📡 Research Publication & International Conference
 
