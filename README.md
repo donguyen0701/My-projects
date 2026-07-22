@@ -43,18 +43,17 @@ I also completed an academic exchange at **Frankfurt University of Applied Scien
 
 | Listening | Reading | Writing | Speaking |
 |---:|---:|---:|---:|
-| [SCORE] | [SCORE] | [SCORE] | [SCORE] |
+| [9.0] | [7.5] | [6.5] | [7.0] |
 
-* Test Year: **[ENTER YEAR]**
-* Certificate: [View IELTS Certificate](ADD_LINK_HERE)
+* Test Year: **[2024]**
+* Certificate: [View IELTS Certificate](https://drive.google.com/file/d/1IH_FjTkxWl-zH8OJT5pWa5Zmvi5G6wLo/view?usp=sharing)
 
 ### German
 
-**Goethe-Zertifikat [ENTER LEVEL: A2/B1/B2]**
+**Goethe-Zertifikat [B1]**
 
-* Result: **[ENTER SCORE OR “Passed”]**
-* Certificate Year: **[ENTER YEAR]**
-* Certificate: [View Goethe Certificate](ADD_LINK_HERE)
+* Certificate Year: **[2025]**
+* Certificate: [View Goethe Certificate](https://drive.google.com/file/d/1iJ7url-VnK_3NSlK1MuN8pCAvjZZBaoy/view?usp=sharing)
 
 <!-- If you have not taken the Goethe examination yet, replace the section above with:
 **German:** Currently preparing for the Goethe-Zertifikat [B1/B2] examination.
@@ -233,8 +232,7 @@ I am currently strengthening my knowledge and practical experience in:
 
 ## 📫 Contact
 
-* **Email:** [ENTER YOUR EMAIL]
-* **LinkedIn:** [ADD LINKEDIN URL]
+* **Email:** [nguyenngdo2005@gmail.com]
 * **GitHub:** [https://github.com/donguyen0701](https://github.com/donguyen0701)
 * **Project Portfolio:** [View My Projects](https://github.com/donguyen0701/My-projects)
 
