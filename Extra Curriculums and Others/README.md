@@ -6,7 +6,7 @@ This folder contains selected activities, volunteering experience, and courses c
 
 ## 👥 REC Club
 
-### Vice President (Deputy Head) | 2025–2026
+### Vice President (Deputy Head) | 2025–2026 && Vice Head (Deputy Head) of Academic Sector | 2024-2025
 
 I support the activities of the **VGU Robotics and Electronics Club (REC)**, including member coordination, technical events, workshops, and student projects.
 
@@ -14,6 +14,7 @@ I support the activities of the **VGU Robotics and Electronics Club (REC)**, inc
   <img src="images/rec-club-1.jpg" alt="REC Club activity" width="47%">
   <img src="images/rec-club-2.jpg" alt="REC Club event" width="47%">
 </p>
+* Link for certificate: [Click Here]()
 
 ---
 
@@ -31,15 +32,7 @@ Supported science and engineering activities for students at:
 * HCMUE Experimental High School
 
 Activities included robot demonstrations, circuit building, and clean-energy challenges.
-
-### VGU Soccerbot Competition | 2023–2024
-
-Worked as the hardware coordinator and co-coder for an Arduino-based robot soccer car. Our team finished in third place.
-
-<p align="center">
-  <img src="images/soccerbot-event.jpg" alt="VGU Soccerbot event" width="47%">
-  <img src="images/stem-day.jpg" alt="STEM Day activity" width="47%">
-</p>
+* Link for certificate: [Click Here]()
 
 ---
 
