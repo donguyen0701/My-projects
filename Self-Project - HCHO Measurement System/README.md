@@ -23,8 +23,6 @@ As the hardware member of the two-student team, I was responsible for:
 * Wiring and soldering the components onto the prototyping board.
 * Testing the electrical connections and troubleshooting hardware problems.
 * Replacing the original SPI TFT display with a compact I2C OLED to reduce cable clutter.
-* Designing the transparent protective enclosure.
-* Planning the ventilation holes and intake/exhaust airflow.
 * Installing and organizing the electronics inside the final enclosure.
 * Preparing hardware diagrams, photographs, and technical documentation.
 
