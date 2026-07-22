@@ -20,6 +20,12 @@ Awarded for continued strong academic achievement during my Electrical and Compu
 
 * Supporting Document: [View Scholarship Certificate](https://drive.google.com/file/d/1rijX-W5yt6VHMXqiNPBq_nvEVvUNFxPs/view?usp=sharing)
 
+### DAAD Additional Sur-Place Scholarship | Winter Semester 2024–2025
+
+Selected as a recipient of the **DAAD Additional Sur-Place Scholarship** for the Winter Semester 2024–2025 in recognition of my academic performance and potential.
+
+* Supporting Document: [View DAAD Scholarship Certificate](https://drive.google.com/file/d/1g5s85vumJN7q-A6zVw082hBSQ_1hrkbx/view?usp=sharing)
+
 ### DAAD Study-Stay Scholarship | Winter Semester 2025–2026
 
 Selected as a recipient of the **DAAD Study-Stay Scholarship** to support my academic exchange during the Winter Semester 2025–2026 at **Frankfurt University of Applied Sciences (FRA-UAS), Germany**.
