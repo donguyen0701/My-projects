@@ -60,13 +60,13 @@ The project was presented to students, faculty members, and industry representat
 <!-- Upload these images to the same folder as this README.md. -->
 
 <p align="center">
-  <img src="CareerFair1.jpg" alt="8-bit computer exhibited at VGU Career Fair 2025" width="48%">
-  <img src="CareerFair2.jpg" alt="Team presenting the 8-bit computer" width="48%">
+  <img src="VGU's Career Fair 3.jpg" alt="8-bit computer exhibited at VGU Career Fair 2025" width="48%">
+  <img src="Group photo.jpg" alt="Team presenting the 8-bit computer" width="48%">
 </p>
 
 <p align="center">
-  <img src="CareerFair3.jpg" alt="Physical 8-bit computer hardware" width="48%">
-  <img src="CareerFair4.jpg" alt="8-bit computer demonstration at VGU Career Fair" width="48%">
+  <img src="CareerFair3.jpg" alt="Image of the team at VGU Career Fair 2025" width="48%">
+  <img src="VGU's Career Fair.jpg" alt="8-bit computer demonstration at VGU Career Fair 2025" width="48%">
 </p>
 
 ## 💡 Skills & Learning Outcomes
