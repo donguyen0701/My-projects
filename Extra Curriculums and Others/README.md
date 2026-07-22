@@ -14,7 +14,8 @@ I support the activities of the **VGU Robotics and Electronics Club (REC)**, inc
   <img src="images/rec-club-1.jpg" alt="REC Club activity" width="47%">
   <img src="images/rec-club-2.jpg" alt="REC Club event" width="47%">
 </p>
-* Link for certificate: [Click Here]()
+
+* Link for certificate: [Click Here](https://drive.google.com/file/d/1YQpLnvjK3swuk9TwyApdlfyiA5ftJ_0d/view?usp=sharing)
 
 ---
 
@@ -24,6 +25,7 @@ I support the activities of the **VGU Robotics and Electronics Club (REC)**, inc
 
 Helped organize a robot soccer competition for VGU students as part of the Exploring Engineering module.
 
+* Link for certificate: [Click Here](https://drive.google.com/file/d/1iA7pXGPtaZRS1u2OWn__rqdUTvjv_3iJ/view?usp=sharing)
 ### STEM Day Volunteer | January 2024
 
 Supported science and engineering activities for students at:
@@ -32,8 +34,8 @@ Supported science and engineering activities for students at:
 * HCMUE Experimental High School
 
 Activities included robot demonstrations, circuit building, and clean-energy challenges.
-* Link for certificate: [Click Here]()
-
+* Link for reference: [Click Here](https://drive.google.com/file/d/1hm0IQMU501Sm_1IgYZ1PTRIBUeRf1vlE/view?usp=sharing)
+  
 ---
 
 ## 📚 Additional Courses
