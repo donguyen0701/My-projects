@@ -11,10 +11,11 @@ This folder contains selected activities, volunteering experience, and courses c
 I support the activities of the **VGU Robotics and Electronics Club (REC)**, including member coordination, technical events, workshops, and student projects.
 
 <p align="center">
-  <img src="images/rec-club-1.jpg" alt="REC Club activity" width="47%">
-  <img src="images/rec-club-2.jpg" alt="REC Club event" width="47%">
+  <img src="1.jpg" alt="REC Club activity" width="47%">
+  <img src="2.jpg" alt="REC Club event" width="47%">
 </p>
 
+* Link for the event:  [Click Here](https://www.facebook.com/vgu.rec/posts/pfbid0TSz9uYNhMttyVAxPK1YjvE3k16K8LjhNiPm9U1gaLYpMh55v5mh73bNgJPiusXZQl)
 * Link for certificate: [Click Here](https://drive.google.com/file/d/1YQpLnvjK3swuk9TwyApdlfyiA5ftJ_0d/view?usp=sharing)
 
 ---
