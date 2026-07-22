@@ -26,7 +26,7 @@ I also completed an academic exchange at **Frankfurt University of Applied Scien
 | **Program** | B.Sc. Electrical and Computer Engineering |
 | **Current Status** | Final-Year Student |
 | **Expected Graduation** | 2027 |
-| **Current GPA** | **2.4 (German Scale) / 7.6 (Vietnamese Scale) |
+| **Current GPA** | 2.4 (German Scale) / 7.6 (Vietnamese Scale) |
 | **Academic Exchange** | Frankfurt University of Applied Sciences, Germany |
 | **Exchange Period** | Winter Semester 2025–2026 |
 
