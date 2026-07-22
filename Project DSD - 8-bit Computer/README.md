@@ -65,7 +65,7 @@ The project was presented to students, faculty members, and industry representat
 </p>
 
 <p align="center">
-  <img src="CareerFair3.jpg" alt="Image of the team at VGU Career Fair 2025" width="48%">
+  <img src="VGU's Career Fair 2.jpg" alt="Image of the team at VGU Career Fair 2025" width="48%">
   <img src="VGU's Career Fair.jpg" alt="8-bit computer demonstration at VGU Career Fair 2025" width="48%">
 </p>
 
