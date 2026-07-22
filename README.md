@@ -10,7 +10,7 @@ Welcome to my academic and engineering portfolio. I am a final-year Electrical a
 
 ## 👨‍🎓 About Me
 
-I enjoy transforming engineering concepts into functional prototypes through hardware design, simulation, programming, system integration, and practical testing.
+I enjoy applying engineering concepts into functional prototypes through hardware design, simulation, programming, system integration, and practical testing.
 
 My experience includes developing embedded monitoring devices, building digital computer systems from scratch, researching adaptive beamforming, and applying machine learning to real-world classification problems.
 
@@ -26,7 +26,7 @@ I also completed an academic exchange at **Frankfurt University of Applied Scien
 | **Program** | B.Sc. Electrical and Computer Engineering |
 | **Current Status** | Final-Year Student |
 | **Expected Graduation** | 2027 |
-| **Current GPA** | **[ENTER GPA] / [ENTER GRADING SCALE]** |
+| **Current GPA** | **2.4 (German Scale) / 7.6 (Vietnamese Scale) |
 | **Academic Exchange** | Frankfurt University of Applied Sciences, Germany |
 | **Exchange Period** | Winter Semester 2025–2026 |
 
