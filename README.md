@@ -200,7 +200,7 @@ Co-developed an embedded object-detection and inventory-management system using 
 
 ## 🤝 Leadership & Activities
 
-### Vice-Head of REC Club | 2025–2026
+### Vice-Head of REC Club | 2025–2026 && Vice Head (Deputy Head) of Academic Sector | 2024-2025
 
 As Vice-Head of the REC Club, I support technical activities, student projects, event organization, and member engagement.
 
